@@ -1,0 +1,9 @@
+spring:
+   application:
+     name: spring-boot-mongo
+   data:
+     mongodb:
+       uri: mongodb://localhost:27017/mongodb0
+server:
+  port: 8081
+
